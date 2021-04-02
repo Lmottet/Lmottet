@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lmottet
+- 👋 Hi, I’m Lionel
 - 👀 I’m interested in tech with good dev experience and practices that let me produce quality products
-- 🌱 I’m currently learning Kotlin
+- 🌱 Currently learning Kotlin
 
 <!---
 Lmottet/Lmottet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
