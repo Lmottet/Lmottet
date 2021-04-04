@@ -1,6 +1,7 @@
 Greetings, I’m Lionel !
 
-I'm a java dev, interested in tech with good dev experience and practices that let me produce quality products
+I'm a java dev, interested in tech with good dev experience and practices that let me produce quality products.
+
 Currently learning Kotlin :)
 
 <!---
