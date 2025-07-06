@@ -1,7 +1,5 @@
 Greetings, I am Lionel !
 
-Back end focused dev, interested in tech with good dev experience, and practices that help me build quality products.
-
 Currently working with
 - C#
 - typescript
@@ -13,6 +11,9 @@ Currently working with
  - spring-boot
  
  & Learning some kotlin
+ 
+I am interested in tech with good dev experience, and practices that help me build quality products.
+In coding, I enjoy problem solving & the iterative aspect of blooming solutions that provide value.
 
 <!---
 Lmottet/Lmottet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
